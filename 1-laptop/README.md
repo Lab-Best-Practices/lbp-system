@@ -29,3 +29,4 @@ Hệ điều hành
 
 - Reset factory
 - Reset conf.
+- Re-install OS (Windows)
